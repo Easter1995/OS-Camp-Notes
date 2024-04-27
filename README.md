@@ -1,1 +1,8 @@
-见博客：https://orange.clovy.top/article/b6c17fb3-b9ee-4390-8704-990fc0f80c8c
+# DAY1
+
+- 阅读完第零章
+- 完成练习
+
+# DAY2
+
+- 阅读第一章
